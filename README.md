@@ -1,0 +1,4 @@
+- 👋 Hi, I’m sasori;
+- i'm full stack developer;
+- have more than 2 years experience;
+- 
